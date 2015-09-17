@@ -10,6 +10,8 @@ pip install python-twitter
 
 Change the "handle" variable to your username.
 
+Change the "count=" value in the statuses variable to delete up to 200 at a time, but be careful of API rate-limiting.
+
 usage: python ephemeral-tweets.py &
 
 
