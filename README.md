@@ -8,6 +8,8 @@ It will run in the background...until you kill it.
 Install python-twitter API wrapper:
 pip install python-twitter
 
+Change the "handle" variable to your username.
+
 usage: python ephemeral-tweets.py &
 
 
